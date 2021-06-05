@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214859510012",
+    "project_id": "projeto-faculdade-3081a",
+    "storage_bucket": "projeto-faculdade-3081a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214859510012:android:d7cc7d5207ecbf23c62779",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214859510012-3uor90i2666t1ifl2rhbub2hepc3p059.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0Bne3CpiZQ2AqRltYksnyh6LGmR_7jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214859510012-3uor90i2666t1ifl2rhbub2hepc3p059.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
